@@ -1,0 +1,4 @@
+﻿  2labaSAOD.cpp
+c:\users\ruta\documents\visual studio 2017\projects\2labasaod\2labasaod\2labasaod.cpp(11): warning C4101: tmp: неиспользованная локальная переменная
+  2labaSAOD.vcxproj -> C:\Users\Ruta\Documents\Visual Studio 2017\Projects\2labaSAOD\Debug\2labaSAOD.exe
+  2labaSAOD.vcxproj -> C:\Users\Ruta\Documents\Visual Studio 2017\Projects\2labaSAOD\Debug\2labaSAOD.pdb (Partial PDB)
